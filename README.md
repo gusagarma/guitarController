@@ -35,6 +35,7 @@ pip install mido pynput
 
    ```bash
    python main.py
+```
 
 4️⃣ Escolha o dispositivo MIDI correto ao iniciar o script.
 5️⃣ Configure os controles: o script pedirá para mapear as notas da guitarra para cada ação do jogo.
