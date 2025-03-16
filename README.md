@@ -26,7 +26,7 @@ Nada de teclado ou joystick—**somente riffs e golpes sincronizados!**
 Instale os pacotes necessários antes de rodar o script:  
 ```bash
 pip install mido pynput
-
+```
 ## 🎮 Como usar
 
 1️⃣ **Conecte sua guitarra MIDI** ou use *MIDI Guitar 2* para capturar o som da guitarra e transformá-lo em notas MIDI.  
