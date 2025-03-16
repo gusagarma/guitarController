@@ -1,4 +1,3 @@
-# guitarController
 # 🎸 Guitar Controller para Metal Gear Rising: Revengeance 🎸
 
 Este é um script que permite jogar **Metal Gear Rising: Revengeance** usando **uma guitarra MIDI como controle**.  
