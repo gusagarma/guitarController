@@ -30,7 +30,9 @@ pip install mido pynput
 ## 🎮 Como usar
 
 1️⃣ **Conecte sua guitarra MIDI** ou use *MIDI Guitar 2* para capturar o som da guitarra e transformá-lo em notas MIDI.  
+
 2️⃣ **Abra o loopMIDI** e crie um dispositivo virtual para rotear os sinais MIDI.  
+
 3️⃣ **Execute o script:**  
 
    ```bash
@@ -38,7 +40,9 @@ pip install mido pynput
 ```
 
 4️⃣ Escolha o dispositivo MIDI correto ao iniciar o script.
+
 5️⃣ Configure os controles: o script pedirá para mapear as notas da guitarra para cada ação do jogo.
+
 6️⃣ Abra o Metal Gear Rising e jogue com sua guita!
 
 
