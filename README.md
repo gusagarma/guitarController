@@ -4,7 +4,7 @@
 Este é um script que permite jogar **Metal Gear Rising: Revengeance** usando **uma guitarra MIDI como controle**.  
 Nada de teclado ou joystick—**somente riffs e golpes sincronizados!**  
 
-![Gameplay Preview](LINK_DA_IMAGEM_DO_PROJETO)  
+[![Gameplay Preview](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
 
 ---
 
@@ -21,7 +21,7 @@ Nada de teclado ou joystick—**somente riffs e golpes sincronizados!**
 
 ### 🛠 **Softwares Necessários**
 🔹 [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) – Cria um dispositivo MIDI virtual  
-🔹 [MIDI Guitar 2](https://www.tobias-erichsen.de/software/loopmidi.html) – Converte o áudio da guitarra em sinais MIDI  
+🔹 [MIDI Guitar 2](https://www.amplesound.net/en/index.asp) – Converte o áudio da guitarra em sinais MIDI  
 
 ### 🖥 **Dependências do Python**
 Instale os pacotes necessários antes de rodar o script:  
