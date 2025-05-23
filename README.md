@@ -1,9 +1,9 @@
 # 🎸 Guitar Controller para Metal Gear Rising: Revengeance 🎸
 
-Este é um script que permite jogar **Metal Gear Rising: Revengeance** usando **uma guitarra MIDI como controle**.  
+Este é um script que permite jogar **seu game favorito** usando **uma guitarra MIDI como controle**.  
 Nada de teclado ou joystick—**somente riffs e golpes sincronizados!**  
 
-[![Gameplay Preview](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+[![Gameplay Preview](https://www.youtube.com/watch?v=fDZxpDFkkWU)
 
 ---
 
@@ -43,7 +43,7 @@ pip install mido pynput
 
 5️⃣ Configure os controles: o script pedirá para mapear as notas da guitarra para cada ação do jogo.
 
-6️⃣ Abra o Metal Gear Rising e jogue com sua guita!
+6️⃣ Abra o seu jogo favorito e jogue com sua guita!
 
 
 
