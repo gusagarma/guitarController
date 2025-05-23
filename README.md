@@ -3,7 +3,7 @@
 Este é um script que permite jogar **seu game favorito** usando **uma guitarra MIDI como controle**.  
 Nada de teclado ou joystick—**somente riffs e golpes sincronizados!**  
 
-[![Gameplay Preview](https://www.youtube.com/watch?v=fDZxpDFkkWU)
+Gameplay: https://www.youtube.com/watch?v=fDZxpDFkkWU
 
 ---
 
